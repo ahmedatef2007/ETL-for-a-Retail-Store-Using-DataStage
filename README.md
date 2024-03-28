@@ -1,5 +1,5 @@
 
-# Data Modeling and Analysis for a Retail Store Using DataStage
+# ETL-for-a-Retail-Store-Using-DataStage
 
 ## Project Overview:
 
