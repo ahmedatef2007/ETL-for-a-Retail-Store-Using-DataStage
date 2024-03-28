@@ -45,7 +45,7 @@ The primary tool employed to address the problem is IBM InfoSphere DataStage, se
 
 ## Project Files:
 
-- DataStage Folder : Contains the dsx files for the DataStage jobs and the Meta Data for the files used.
+- DataStage Dsx File : Contains the files for the DataStage jobs and the Meta Data for the files used.
 - Dataset: Holds the data after being modeled in a star schema data warehouse format.
 - MetaData: Stores the metadata of tables utilized in the DataStage jobs.
 - Output_Data: Provides samples of analyzed data.
