@@ -1,0 +1,4 @@
+"customertype","Count"
+"citizen","96"
+"foriegn","21"
+"citizen","14"
